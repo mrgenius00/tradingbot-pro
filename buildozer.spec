@@ -17,3 +17,4 @@ orientation = portrait
 [buildozer]
 log_level = 2
 warn_on_root = 0
+# This is a test comment to trigger GitHub Actions
